@@ -12,31 +12,5 @@ This Learn Basic HTML! <br/>
 <br/> Is Used For New Lines for a text<br/>
 Say You want a color code? Put in <body background color = "red"/> Will Do Red!
 
-
-
-					
-					
-					
-					
-		Tell Us Your Thoughts!				
-	<textarea rows="5" cols="50">
-			</textarea>
-					
-					
-					<p align="center"><input type="Done" value="Done">
-<input type="reset" value="Reset"></p>
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-			
-
-			
-			
+		
 </html>
