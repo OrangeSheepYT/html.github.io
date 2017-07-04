@@ -1,10 +1,19 @@
 <html>
 	<title> About Awesome Cats! </title>
-		<body background = "bf/nyan.png">
 			<h1> Awesome <u><i>Cats</i></u> From My Thoughts! </h1>
 			<h2><font color = "Red"> <u>1st</u>Siamiese Cats</h2>
 			<h3><font color = "Pink"> <u>2nd</u>Persian Cats!</h3>
 				<h4><font color = "black"> <u>3rd </u>American Curl</h4>
+
+This Learn Basic HTML! <br/>
+<u> Is Used For UnderLine!<br/>
+<i> Is Used Fot Italic!<br/>
+<b> Is Used For Bold!<br/>
+<br/> Is Used For New Lines for a text<br/>
+Say You want a color code? Put in <body background color = "red"/> Will Do Red!
+
+
+
 					
 					
 					
